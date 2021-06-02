@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="219959" started-at="2021-06-01T00:14:35 IST" finished-at="2021-06-01T00:18:15 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="219959" started-at="2021-06-01T00:14:35 IST" finished-at="2021-06-01T00:18:15 IST">
+      <class name="Framework.HybridAppTesting">
+        <test-method status="PASS" signature="login()[pri:0, instance:Framework.HybridAppTesting@6ee52dcd]" name="login" is-config="true" duration-ms="49505" started-at="2021-06-01T00:14:35 IST" finished-at="2021-06-01T00:15:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="Navigating_to_Practice_Test_page()[pri:1, instance:Framework.HybridAppTesting@6ee52dcd]" name="Navigating_to_Practice_Test_page" duration-ms="29326" started-at="2021-06-01T00:15:24 IST" finished-at="2021-06-01T00:15:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Navigating_to_Practice_Test_page -->
+        <test-method status="PASS" signature="Edit_My_Courses()[pri:2, instance:Framework.HybridAppTesting@6ee52dcd]" name="Edit_My_Courses" duration-ms="14386" started-at="2021-06-01T00:15:54 IST" finished-at="2021-06-01T00:16:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Edit_My_Courses -->
+        <test-method status="PASS" signature="BookMark_Math_Course()[pri:3, instance:Framework.HybridAppTesting@6ee52dcd]" name="BookMark_Math_Course" duration-ms="10860" started-at="2021-06-01T00:16:08 IST" finished-at="2021-06-01T00:16:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BookMark_Math_Course -->
+        <test-method status="PASS" signature="Viwed_Biology_Video()[pri:4, instance:Framework.HybridAppTesting@6ee52dcd]" name="Viwed_Biology_Video" duration-ms="78716" started-at="2021-06-01T00:16:19 IST" finished-at="2021-06-01T00:17:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Viwed_Biology_Video -->
+        <test-method status="PASS" signature="SignOut()[pri:0, instance:Framework.HybridAppTesting@6ee52dcd]" name="SignOut" is-config="true" duration-ms="37101" started-at="2021-06-01T00:17:38 IST" finished-at="2021-06-01T00:18:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignOut -->
+      </class> <!-- Framework.HybridAppTesting -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
